@@ -14,7 +14,8 @@ Vue.config.productionTip = false
 
 const router = new VueRouter({
     routes: [
-        {path: '/', name:'home', component: HOMEPAGE},
+
+        {path: '/', name:'home', component: HOMEPAGE,meta: { title: 'Yingzheng lai' } },
         {path: '/audiotag', name: 'project',component:VIDEOTAG},
         {path: '/pre', name: 'project',component:Pre},
     ]

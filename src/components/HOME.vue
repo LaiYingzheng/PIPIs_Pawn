@@ -1,6 +1,9 @@
 <template>
 
   <div style = " font-family: HoeflerText, serif;position:absolute; left:30%; width:800px;height:1000px; background-color: white">
+    <head>
+      <title> Yingzheng Lai</title>
+    </head>
     <div style = "width:800px; background-color: transparent; margin-left:-50px">
       <img src="../assets/view.png" alt="Mountains" width="900px">
     </div>
