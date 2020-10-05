@@ -1,20 +1,26 @@
-+- ./public 
-+- ./src
-	+- ./assets 				
-		+- ./a_spider              
-		+- ./audiotagging
-		+- ./icons
-		+- ./lyft
-		+- cover.jpg
-		+- googlestripe.png
-		+- logo.png
-		+- pin.png
-		+- view.png
-	+- ./components
-		+- HOME.vue				
-		+- amazon_spider.vue	// project page not done yet
-		+- audiotagging.vue		// template
-		+- lyft.vue				    // project page not done yet
-		+- preview.vue		  	// test page
-	+- ./App.vue			
-	+- ./main.js			
+├── babel.config.js
+├── node_modules
+├── package-lock.json
+├── package.json
+├── public
+├── README.md
+└── src
+	├── App.vue
+	├── assets
+	|  ├── audiotagging
+	|  ├── a_spider
+	|  ├── cover.jpg
+	|  ├── googlestripe.png
+	|  ├── icons
+	|  ├── logo.png
+	|  ├── lyft
+	|  ├── pin.png
+	|  └── view.png
+	├── components
+	|  ├── amazon_spider.vue
+	|  ├── audiotagging.vue
+	|  ├── HOME.vue
+	|  ├── lyft.vue
+	|  └── preview.vue
+	└── main.js
+
