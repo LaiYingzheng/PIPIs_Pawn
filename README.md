@@ -1,24 +1,20 @@
-# website_demo
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
++- ./public 
++- ./src
+	+- ./assets 				
+		+- ./a_spider              
+		+- ./audiotagging
+		+- ./icons
+		+- ./lyft
+		+- cover.jpg
+		+- googlestripe.png
+		+- logo.png
+		+- pin.png
+		+- view.png
+	+- ./components
+		+- HOME.vue				
+		+- amazon_spider.vue	// project page not done yet
+		+- audiotagging.vue		// template
+		+- lyft.vue				    // project page not done yet
+		+- preview.vue		  	// test page
+	+- ./App.vue			
+	+- ./main.js			
