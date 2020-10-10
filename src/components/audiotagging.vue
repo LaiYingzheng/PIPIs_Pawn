@@ -1,5 +1,4 @@
 <template>
-
   <div style =" font-family: HoeflerText, serif;position:absolute; left:30%; width:800px;height:1000px; background-color: white">
     <img src="../assets/audiotagging/Freesound.png" width="800"/>
     <div class = "title">Audio Tagging</div>
@@ -105,7 +104,6 @@
     </div>
     <div class = "section"><a href = "http://github.com/laiyingzheng" style = "text-decoration: none">Source Code</a></div>
   </div>
-
 </template>
 
 <script>
