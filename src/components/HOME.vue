@@ -70,13 +70,13 @@
     <!-- end role -->
     <div class ="section">Projects</div>
 
-      <a href = '/#/audiotag' target="_blank">
+      <a href = '/audiotag' target="_blank">
         <img class = " halfleft photo" src="../assets/audiotagging/Freesound.png">
       </a>
-    <a href = '/#/lyft' target="_blank">
+    <a href = '/lyft' target="_blank">
       <img class = " halfright photo" src="../assets/lyft/av.jpg">
     </a>
-    <a href = '/#/lyft' target="_blank">
+    <a href = '/lyft' target="_blank">
       <img class = " halfleft photo" src="../assets/a_spider/amazon.jpg">
     </a>
 <!--    <div class="halfright photo"> </div>-->
